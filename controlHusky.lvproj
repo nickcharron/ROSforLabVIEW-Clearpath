@@ -14,7 +14,6 @@
 		<Item Name="OdomLaserSubscriber.vi" Type="VI" URL="../OdomLaserSubscriber.vi"/>
 		<Item Name="parseLaserScan.vi" Type="VI" URL="../parseLaserScan.vi"/>
 		<Item Name="parseOdometry.vi" Type="VI" URL="../parseOdometry.vi"/>
-		<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 		<Item Name="VelocityPublisher.vi" Type="VI" URL="../VelocityPublisher.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
